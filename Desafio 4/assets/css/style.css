@@ -1,0 +1,87 @@
+body {
+
+    font-family: 'Roboto';
+    
+}
+
+
+.contacto input{
+
+    width: 80%;
+    border-radius: 6px;
+    margin: 5px;
+    
+
+}
+.contacto {
+
+    background-color: green;
+    align-items: center;
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.contacto h5 {
+
+    color: white;
+    text-align: center;
+    
+}
+
+.contacto button {
+
+    width: 100px;
+    border-radius: 6px;
+    font-weight: 500;
+   
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body-2 {
+
+    border-bottom: 2px solid #707070;
+}
+
+.precios {
+
+    display: flex;
+    justify-content: end;
+    margin-top: 10px;
+
+}
+.precios p {
+
+    padding: 5px;
+    
+    
+}
+
+p{
+    color: #707070;
+}
+.precios .color {
+
+    color: green;
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+.precios2 {
+
+    vertical-align: middle;
+}
+
+h5 {
+
+    margin: 0px;
+}
+

@@ -1,0 +1,133 @@
+body{
+
+    margin: 0px;
+    
+}
+
+header{
+    
+
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+
+    margin: 0;
+    padding: 7px;
+}
+
+.banner {
+
+    
+    background-image: url(../img/bg-header.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 56em;
+    
+    
+}
+
+.iguana {
+
+
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 3em;
+    
+    
+    
+}
+.box{
+
+    width: 40%;
+    vertical-align: middle;
+}
+
+.box p {
+
+    font-size: 22px;
+    text-align: left;
+    margin: 0px;
+    font-weight: 500;
+    padding: 15px;
+    
+}
+
+.iguana img {
+    
+    height: 300px;
+}
+
+.iconos {
+
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 150px 100px 150px;
+    color: white;
+}
+
+.titulo h1 {
+
+    font-size: 40px;
+    
+    margin: 0px;
+    padding: 50px 0px 0px 0px;
+    color: #fff;
+}
+
+.caja {
+
+    background-color: rgb(52, 45, 45);
+    text-align: center;
+}
+
+.ico p {
+
+    text-align: center;
+    font-size: 20px;
+}
+
+.galeria {
+
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 160px 80px 160px;
+    
+}
+
+.foto{
+   padding: 10px;
+    
+}
+
+.foto img{
+
+    height: 230px;
+    width: 400px;
+}
+
+footer{
+    
+    padding: 20px;
+    background-color:#262323;
+    text-align: center;
+    
+}
+
+footer h3 {
+
+    margin: 0px;
+    color: #fff;
+    font-weight: 400;
+    
+}
+.ico {
+
+    text-align: center;
+    
+}

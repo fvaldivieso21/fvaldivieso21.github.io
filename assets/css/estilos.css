@@ -21,6 +21,14 @@ body {
   background-position: end;
 }
 
+/* Portafolio */
+#Portafolio .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: end;
+}
+
 /* Contacto */
 
 #Contacto form label {
